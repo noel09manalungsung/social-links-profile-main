@@ -87,5 +87,5 @@ button:hover,
 button:active {
   background-color: var(--COLOR-GREEN);
   color: var(--COLOR-GREY);
-  cursor:;
+  cursor: pointer;
 }
